@@ -14,7 +14,11 @@ $ wget http://get.decidim.org -O install_decidim.bash
 $ bash install_decidim.bash 
 ```
 
-Roadmap: 
+## Example output
+
+[![asciicast](https://asciinema.org/a/U8exZ4dsa9h1rKfIzIEt8rFnM.png)](https://asciinema.org/a/U8exZ4dsa9h1rKfIzIEt8rFnM)
+
+## Roadmap
 
 * Staging and Production environments 
 * CI
