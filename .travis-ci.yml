@@ -1,0 +1,7 @@
+matrix:
+  include:
+    - os: linux
+      dist: xenial
+      sudo: required
+    - os: osx
+script: install_decidim.bash
