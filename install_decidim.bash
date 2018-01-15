@@ -8,7 +8,7 @@
 #
 
 set -e
-#set -x
+set -x
 
 DB_USER=decidim_app
 DB_PASS=$( openssl rand -base64 32 )
